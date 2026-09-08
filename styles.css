@@ -1,0 +1,10 @@
+.login-panel {
+  background: #ffffff;
+  padding: 16px;
+  border-radius: 4px;
+}
+
+.error-text {
+  color: #d83a52;
+  font-size: 12px;
+}
