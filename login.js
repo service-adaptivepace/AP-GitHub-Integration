@@ -11,3 +11,4 @@ function validateLogin(username, password) {
 }
 
 module.exports = { validateLogin };
+module.exports = { validateLogin };
